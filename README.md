@@ -1,7 +1,9 @@
 # cobamodul3
 
 # Kelas Pinjam Buku
-# Masukkan kode buku
-# Masukkan berapa lama pinjam
-# Masukkan harga buku
-# Total 
+Masukkan kode buku
+Masukkan berapa lama pinjam
+Masukkan harga buku
+Total yang dibayar akan ditampilkan
+
+
